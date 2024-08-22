@@ -1,0 +1,72 @@
+2024-07-29 09:41:59 - INFO - Login successful
+2024-07-29 09:47:50 - INFO - Login successful
+2024-07-30 10:22:07 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 10:35:37 - INFO - Login successful
+2024-07-30 10:36:04 - INFO - Login successful
+2024-07-30 10:36:14 - ERROR - Failed to load HTML file: '_tkinter.tkapp' object has no attribute 'pack'
+2024-07-30 10:36:45 - INFO - Login successful
+2024-07-30 10:36:54 - ERROR - Failed to load HTML file: '_tkinter.tkapp' object has no attribute 'pack'
+2024-07-30 10:39:20 - INFO - Login successful
+2024-07-30 10:39:28 - ERROR - Failed to load HTML file: '_tkinter.tkapp' object has no attribute 'pack'
+2024-07-30 10:39:36 - ERROR - Failed to load HTML file: '_tkinter.tkapp' object has no attribute 'pack'
+2024-07-30 10:42:17 - INFO - Login successful
+2024-07-30 10:45:07 - INFO - Login successful
+2024-07-30 10:46:51 - INFO - Login successful
+2024-07-30 10:50:41 - ERROR - Login failed: [Errno 11001] getaddrinfo failed
+2024-07-30 10:50:50 - INFO - Login successful
+2024-07-30 10:51:35 - ERROR - Failed to send email to pedromo5555@gmail.com: [Errno 2] No such file or directory: ''
+2024-07-30 10:51:35 - ERROR - Failed to send email to pedrodongmo.contacto@gmail.com: [Errno 2] No such file or directory: ''
+2024-07-30 10:55:27 - INFO - Login successful
+2024-07-30 10:55:45 - ERROR - Failed to send email to pedromo5555@gmail.com: 'tuple' object has no attribute 'split'
+2024-07-30 10:55:45 - ERROR - Failed to send email to pedrodongmo.contacto@gmail.com: 'tuple' object has no attribute 'split'
+2024-07-30 10:57:43 - INFO - Login successful
+2024-07-30 10:58:11 - ERROR - Failed to send email to pedromo5555@gmail.com: 'tuple' object has no attribute 'split'
+2024-07-30 10:58:11 - ERROR - Failed to send email to pedrodongmo.contacto@gmail.com: 'tuple' object has no attribute 'split'
+2024-07-30 11:00:22 - INFO - Login successful
+2024-07-30 11:00:43 - INFO - Email sent to pedromo5555@gmail.com
+2024-07-30 11:00:43 - INFO - Email sent to pedrodongmo.contacto@gmail.com
+2024-07-30 11:03:05 - INFO - Login successful
+2024-07-30 11:04:03 - INFO - Email sent to pedromo5555@gmail.com
+2024-07-30 11:04:04 - INFO - Email sent to pedrodongmo.contacto@gmail.com
+2024-07-30 11:07:29 - INFO - Login successful
+2024-07-30 11:09:54 - INFO - Login successful
+2024-07-30 11:10:20 - INFO - Email sent to pedromo5555@gmail.com
+2024-07-30 11:10:21 - INFO - Email sent to pedrodongmo.contacto@gmail.com
+2024-07-30 11:14:20 - INFO - Login successful
+2024-07-30 11:14:45 - INFO - Email sent to pedromo5555@gmail.com
+2024-07-30 11:14:46 - INFO - Email sent to pedrodongmo.contacto@gmail.com
+2024-07-30 11:18:10 - INFO - Login successful
+2024-07-30 12:44:48 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:01 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:09 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:20 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:53 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:54 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:54 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:54 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:45:55 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:47:00 - ERROR - Login failed: Connection unexpectedly closed
+2024-07-30 12:48:57 - INFO - Login successful
+2024-08-02 09:06:57 - INFO - Login successful
+2024-08-02 09:08:35 - INFO - Login successful
+2024-08-02 09:09:33 - INFO - Email sent to a108398@uminho.pt
+2024-08-02 09:09:33 - INFO - Email sent to pedrodongmo.contacto@gmail.com
+2024-08-02 09:12:35 - INFO - Login successful
+2024-08-02 09:13:48 - ERROR - Failed to send email to  mariotexeira.1@outlook.com: Connection unexpectedly closed
+2024-08-02 09:14:54 - INFO - Login successful
+2024-08-02 09:15:23 - INFO - Email sent to  marioteixeira.1@outlook.com
+2024-08-02 09:37:22 - INFO - Login successful
+2024-08-02 09:38:06 - INFO - Email sent to pedromo5555@gmail.com
+2024-08-02 11:02:28 - INFO - Login successful
+2024-08-02 11:03:11 - INFO - Email sent to test-8a11kbh4r@srv1.mail-tester.com
+2024-08-02 11:18:51 - ERROR - Failed to send email to marioteixeira.1@outlook.com: Connection unexpectedly closed
+2024-08-02 11:18:53 - ERROR - Failed to send email to marioteixeira.1@outlook.com: please run connect() first
+2024-08-19 09:42:41 - INFO - Login successful
+2024-08-19 09:45:21 - ERROR - Failed to read the CSV file: No email found
+2024-08-19 09:45:53 - ERROR - Failed to send email to a108398@uminho.pt: Connection unexpectedly closed
+2024-08-19 09:45:53 - ERROR - Failed to send email to pedrodongmo.contacto@gmail.com: please run connect() first
+2024-08-19 09:45:53 - ERROR - Failed to send email to test-vw90libtf@srv1.mail-tester.com: please run connect() first
+2024-08-19 09:47:28 - INFO - Login successful
+2024-08-19 09:47:57 - ERROR - Failed to send email to test-vw90libtf@srv1.mail-tester.comtest-vw90libtf@srv1.mail-tester.com: {'': (550, b"5.5.0 <> invalid address ''")}
+2024-08-19 09:48:28 - INFO - Email sent to a108398@uminho.pt
+2024-08-19 09:48:28 - INFO - Email sent to pedrodongmo.contacto@gmail.com
